@@ -29,10 +29,10 @@ idm_born_on_date()
 
 
 class tweetSearchAndAnalysis():
-    ckey = 'Qf0R5Gd8XhyzkrGOTeNfD8xnl'
-    csecret = 'vxNjxVPOLZ4iqQkKbWPSDr09rFl5MyexOJXutIj3TClrRjkh0N'
-    atoken = '606212173-t7ErDqw6uoH400pddm4X463kQG34llL4xxLz26JI'
-    asecret = 'DFvYowJRRfwd9oWiBpzbwWVDnpfYGX72zQ6Kbnz0uv1eI'
+    ckey = 'Qf0R5Gd8XhyzkrGOTXXXXXXXX'
+    csecret = 'vxNjxVPOLZ4iqQkKbWPSDr09rFl5MyexOJXutIXXXXXXXX'
+    atoken = '606212173-t7ErDqw6uoH400pddm4X463kQG34XXXXXXXX'
+    asecret = 'DFvYowJRRfwd9oWiBpzbwWVDnpfYGX72zQXXXXXXXX'
     auth = OAuthHandler(ckey, csecret)
     auth.set_access_token(atoken, asecret)
     api = tweepy.API(auth)
