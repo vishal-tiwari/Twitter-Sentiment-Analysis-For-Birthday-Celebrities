@@ -29,8 +29,9 @@ Once you have this list, run a sentiment analysis on twitter for each celebrity 
 
   •	BeautifulSoup : Beautiful Soup provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree     using Python parsers like lxml and html5lib. It automatically converts incoming documents to Unicode and outgoing documents to UTF-8.     Here's the documentation.
 
-  •	Selenium : The webdriver kit emulates a web-browser (I chose FireFox) and executes the JS scripts to load the dynamic content.
+  •	Selenium : The webdriver kit emulates a web-browser (I chose Chrome) and executes the JS scripts to load the dynamic content.
   
 ## Important
 
-  You can get your key and token from given link: https://apps.twitter.com after registring your app.
+  You can get your key and token from given link: https://apps.twitter.com after registring your app and webdriver from link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+  
