@@ -23,7 +23,7 @@ Once you have this list, run a sentiment analysis on twitter for each celebrity 
 
   •	Tweepy : Tweepy is an open-sourced, hosted on GitHub, and enables Python to communicate with the Twitter platform and use its API.
 
-  •	Codecs : The codecs module provides stream and file interfaces for transcoding data in your program. In this project I use the   module     for storing the tweets as Unicode text. Here's the documentation.
+  •	Codecs : The codecs module provides stream and file interfaces for transcoding data in your program. In this project I use the   module     for storing the tweets as Unicode text. Here's the documentation https://docs.python.org/2/library/codecs.html
 
   •	String (punctuation) : To strip the tweets of all punctuations.
 
